@@ -1,0 +1,7 @@
+Fontes deste site, hospedadas localmente:
+
+- Style Script, de Robert Leuschke (TypeSETit). Licença SIL Open Font License 1.1.
+- Albert Sans, de Andreas Rasmussen. Licença SIL Open Font License 1.1.
+
+Texto da licença: https://openfontlicense.org/open-font-license-official-text/
+Arquivos obtidos do Google Fonts (fonts.google.com) em 05/11/2026.
