@@ -14,6 +14,7 @@ Thumbs.db
 .idea/
 *.log
 
-# Netlify CLI e dependências
+# Vercel/Netlify CLI e dependências
+.vercel/
 .netlify/
 node_modules/
